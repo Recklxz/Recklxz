@@ -14,10 +14,9 @@ https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:00ffff,50:ff
 
 ### 🔍 About Me
 
-- Focused on **cybersecurity research**, **defensive tooling**, and **offensive security concepts**  
-- Building systems that detect, analyze, and respond to threats in real time  
-- Passionate about **privacy**, **secure architectures**, and **ethical hacking**  
-- Currently developing projects in **intrusion detection**, **honeypot deployment**, and **hardware-based security testing**
+- Focused on **cybersecurity research**, **defensive tooling**, and **ethical offensive techniques**  
+- Building systems for **real-time threat detection**, **honeypot monitoring**, and **hardware-based security testing**  
+- Passionate about **privacy**, **secure software design**, and **automated defense mechanisms**
 
 ---
 
@@ -58,10 +57,10 @@ Combines **Supervised Learning (Random Forest)** trained on CICIDS2018 & SCVIC-A
 
 ---
 
-### 📬 Contact & Presence
+### 📬 Contact
 
-All communications respect privacy and security best practices.  
-Feel free to explore my repositories or reach out for collaboration on security research, tool development, or academic projects.
+Open to collaboration on security research, academic projects, or open-source tooling.  
+All interactions respect privacy and technical integrity.
 
 ![Visitor Count](https://profile-counter.glitch.me/Recklxz/count.svg?color=ff0080&style=for-the-badge&background=0d1117)
 
