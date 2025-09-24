@@ -1,160 +1,68 @@
-<div align="center">
+██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗     ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
+██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
+███████║███████║██║     █████╔╝ █████╗  ██████╔╝       ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
+██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗       ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
+██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║       ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 
-# Link Established
+https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:00ffff,50:ff0080,75:00ffff,100:ff0080&height=180&section=header&text=◉%20Anmol Kool%20◉&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🔒%20Cybersecurity%20Engineer%20&descAlignY=55&descAlign=50&descSize=20
 
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣦⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⡿⠿⠿⠿⣿⣿⣿⣿⡿⠿⠿⠿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣶⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣿⣶⣶⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⡿⠃⠀⠀⠀⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀⠀⠀⢻⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⠟⠁⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⡿⠟⠛⠉⠉⠉⠁⠀⠀⠀⠈⠉⠉⠛⠛⠿⢿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠙⢿⣿⣿⣧⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣼⣿⣿⡿⠃⠀⠀⠀⣠⣶⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣿⣿⣿⣷⣦⡀⠀⠀⠈⠻⣿⣿⣷⡄⠀⠀⠀⠀
-⠀⠀⠀⢠⣾⣿⣿⣿⡁⠀⠀⣠⣾⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⢿⣿⣿⣿⣦⣄⠀⠀⣹⣿⣿⣿⣆⠀⠀⠀
-⠀⠀⢠⣿⣿⣿⣿⣿⣿⣶⣾⣿⣿⣿⡿⠁⢀⣠⣴⣶⣶⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣶⣶⣤⣀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀
-⠀⢀⣿⣿⣿⡟⠛⠿⣿⣿⣿⣿⣿⠋⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠈⢿⣿⣿⣿⣿⡿⠟⠛⣿⣿⣿⡄⠀
-⠀⣾⣿⣿⡟⠀⠀⠀⣿⣿⣿⣿⠃⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⢻⣿⣿⣿⡇⠀⠀⠸⣿⣿⣿⡀
-⢸⣿⣿⡿⠀⠀⠀⢸⣿⣿⣿⠇⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢿⣿⣿⣿⡀⠀⠀⢻⣿⣿⣇
-⣿⣿⣿⠇⠀⠀⠀⣿⣿⣿⡟⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠘⣿⣿⣿⡇⠀⠀⠈⢿⣿⣿
-⠈⠛⠋⠀⠀⠀⢰⣿⣿⣿⡇⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⢹⣿⣿⣿⠀⠀⠀⠈⠛⠋
-⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠸⣿⣿⣿⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠛⠋⠁⠀⠀⠀⠀⢠⣾⣿⣆⠀⠀⠀⠀⠀⠉⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⠀⠀⠀⠀⠀⠀
-⢠⣶⣦⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⣠⣶⣦
-⢸⣿⣿⣇⠀⠀⠀⣿⣿⣿⣿⠛⠛⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠛⢿⣿⣿⣿⡇⠀⠀⢠⣿⣿⡿
-⠘⣿⣿⣿⡄⠀⠀⢸⣿⣿⣿⡄⠀⠀⢸⣿⣿⠀⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⣿⣿⣿⡆⠀⠀⠀⣿⣿⣿⠀⠀⠀⣸⣿⣿⣿⠁⠀⠀⣾⣿⣿⡇
-⠀⢹⣿⣿⣷⡀⠀⢀⣿⣿⣿⣿⡄⠀⢸⣿⣿⠀⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⠀⠀⣴⣿⣿⣿⡏⠀⠀⣼⣿⣿⡿⠀
-⠀⠀⢻⣿⣿⣷⣶⣿⣿⣿⣿⣿⣿⣄⢸⣿⣿⡇⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⢀⣼⣿⣿⣿⣿⣿⣶⣾⣿⣿⡿⠁⠀
-⠀⠀⠀⢻⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀⠀⣿⣿⣿⣾⣿⣿⣿⠟⢿⣿⣿⣿⣿⡿⠃⠀⠀
-⠀⠀⠀⠀⠻⣿⣿⣿⡇⠀⠀⠙⢿⣿⣿⣿⣿⣇⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀⢀⣿⣿⣿⣿⣿⠟⠁⠀⢀⣿⣿⣿⡿⠁⠀⠀⠀
-⠀⠀⠀⠀⠀⠹⣿⣿⣿⣦⠀⠀⠀⠙⠿⣿⣿⣿⣷⣤⣀⣸⣿⣿⡇⠀⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⣿⣿⣿⣇⣀⣴⣿⣿⣿⡿⠟⠁⠀⠀⣠⣾⣿⣿⡟⠁⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣷⣄⠀⠀⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣧⣀⡀⠀⠀⣿⣿⡇⠀⣀⣀⣠⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⢀⣴⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⡆⠀⠀⠀⠀⠀⠈⠙⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀⢀⣾⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠻⠿⢿⣿⣿⣿⣿⣿⠿⠿⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⠀⠀⠀⠀⠀⢹⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣷⣶⣾⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,25:00ffff,50:ff0080,75:00ffff,100:ff0080&height=160&section=header&text=◉%20Anmol%20Kool%20◉&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Researcher&descAlignY=55&descAlign=50&descSize=16" alt="Header Banner" />
-
-</div>
+**📍 Location**: Kanpur, Uttar Pradesh, India  
+**🎓 Status**: Final-year B.Tech student in Information Technology with a specialization in Cybersecurity  
 
 ---
 
-## 👋 Hi — I'm Anmol Kool
+### 🔍 About Me
 
-**3rd-year B.Tech (Information Technology)** — specializing in **Cyber Security**.  
-I build and research practical tools for intrusion detection, honeypots, and security tooling, with a focus on measurable defenses and responsible disclosure.
-
----
-
-## 🖥 Profile snapshot (readable terminal style)
-
-```bash
-$ whoami
-Recklxz
-
-$ location
-Kanpur, Uttar Pradesh, India
-
-$ title
-B.Tech student (Cyber Security). Research & projects: IDS, Honeypots, Threat Hunting.
-
-$ meta
-LEVEL=Advanced
-FOCUS=Intrusion-Detection, Honeypots, ML-for-IDS
-ETHICS=Responsible-Disclosure
-```
-
-> All project demos are intended for educational/research use. I avoid publishing exploit-ready tools that enable abuse.
+- Focused on **cybersecurity research**, **defensive tooling**, and **offensive security concepts**  
+- Building systems that detect, analyze, and respond to threats in real time  
+- Passionate about **privacy**, **secure architectures**, and **ethical hacking**  
+- Currently developing projects in **intrusion detection**, **honeypot deployment**, and **hardware-based security testing**
 
 ---
 
-## 💻 Core technologies & tools
+### 🛠️ Technical Stack
 
-**Security & Monitoring:** Kali Linux (Metasploit, Burp Suite, Wireshark) · Snort · Wazuh SIEM · Cowrie (honeypot)  
-**Languages:** Python · JavaScript (Node.js) · HTML/CSS  
-**Frameworks & Backend:** Flask · Express.js  
-**DevOps / Observability:** Docker · ELK Stack (Elasticsearch / Logstash / Kibana) · Git/GitHub
+| **Languages & Core Systems** |
+|------------------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Recklxz&layout=compact&theme=synthwave&bg_color=0d1117&border_color=ff0080&title_color=00ffff&text_color=ffffff&icon_color=ff0080&hide_border=true&border_radius=10) |
 
-<div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Recklxz&layout=compact&theme=dark&hide_border=true)
-</div>
+| **Tools & Frameworks** |
+|------------------------|
+| ![Framework Shield](https://img.shields.io/badge/TOOLS-Python,%20Git,%20Wireshark,%20Splunk,%20Metasploit,%20Burp%20Suite,%20Kali%20Linux,%20Penetration%20Testing,%20Network%20Security,%20SQL,%20Cloud%20Computing,%20Networking,%20Docker,%20HTML,%20CSS,%20Ducky%20Scripting,%20Bash,%20C%20(basic)-00ffff?style=for-the-badge&logo=shield&logoColor=white) |
 
----
-
-## 🚀 Selected projects (concise & technical)
-
-### 🔹 Honeypot Logging & Monitoring System  
-**Status:** deployed / maintained  
-Scalable honeypot using **Cowrie** + **Docker**, integrated with **ELK** for real-time log ingestion and dashboards. Includes optional alerting channels (Telegram / Email) for high-confidence events and quick triage.  
-🔗 https://github.com/Recklxz/Honeypot
+| **Current Focus Areas** |
+|--------------------------|
+| ![Exploit Kit](https://img.shields.io/badge/FOCUS-docker,%20PHP,%20ELK%20Stack,%20Cryptography,%20Intrusion%20Detection%20Systems-00ff00?style=for-the-badge&logo=bug&logoColor=white) |
 
 ---
 
-### 🔹 picologger (research / demo)  
-**Status:** research / demo (lab-only)  
-Raspberry Pi Pico configured as a programmable USB HID to demonstrate HID-based threat vectors and mitigations. Intended for controlled lab environments and awareness exercises, with documentation on defensive measures.  
-🔗 https://github.com/Recklxz/picologger
+### 📁 Projects
+
+#### 🔥 **Honeypot Logging & Monitoring System**  
+A scalable honeypot using **Cowrie**, containerized with **Docker**, integrated with the **ELK Stack** for real-time log analysis, and supports **Telegram/Email alerts** for suspicious activity.
+
+#### ⚡ **PicoLogger**  
+A Raspberry Pi Pico configured as a **Rubber Ducky-style HID keylogger**. Executes pre-defined keystroke payloads via **Ducky Script**, demonstrating USB-based attack vectors and offensive security principles.
+
+#### 🌐 **AI-Powered Real-time Intrusion Detection System**  
+Combines **Supervised Learning (Random Forest)** trained on CICIDS2018 & SCVIC-APT datasets with **Unsupervised Learning (Autoencoders)** for anomaly detection—enabling hybrid threat identification in network traffic.
 
 ---
 
-### 🔹 Real-Time Intrusion Detection System (AI-IDS)  
-**Status:** training / evaluation  
-Hybrid detection: supervised classifiers (Random Forest) for signature detection + unsupervised models (Autoencoders) for anomaly detection. Trained and evaluated on CICIDS2018 and other labeled datasets; goal is robust detection with low false positive rates.  
-🔗 https://github.com/Recklxz/Real-Time-IDS
+### 📊 GitHub Analytics
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Recklxz&bg_color=0d1117&color=ff0080&line=00ffff&point=ffffff&area=true&hide_border=true&theme=synthwave)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Recklxz&theme=synthwave&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&border_color=ff0080&title_color=00ffff)
 
 ---
 
-## 🔬 Research & learning focus
+### 📬 Contact & Presence
 
-`docker · elk stack · cryptography · advanced intrusion detection systems · threat hunting`
+All communications respect privacy and security best practices.  
+Feel free to explore my repositories or reach out for collaboration on security research, tool development, or academic projects.
 
----
+![Visitor Count](https://profile-counter.glitch.me/Recklxz/count.svg?color=ff0080&style=for-the-badge&background=0d1117)
 
-## 📊 Activity & public metrics
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Recklxz&bg_color=0d1117&color=ff0080&line=00ffff&point=ffffff&area=true&hide_border=true&theme=synthwave)
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Recklxz&show_icons=true&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 📌 Project maturity at a glance
-
-| Project | Focus | Maturity |
-|---|---:|:---|
-| Honeypot Logging & Monitoring System | Deception, telemetry & alerting | Deployed |
-| picologger | HID threat simulation (lab only) | Research / Demo |
-| Real-Time IDS | ML-based detection & evaluation | Training / Evaluation |
-
----
-
-## 🧭 Principles & responsible practice
-
-I follow these rules for all offensive/security research:
-- Demos are for **educational and defensive** purposes only.  
-- I follow **responsible disclosure**; I do not publish exploit-ready payloads that would cause harm.  
-- Each project includes notes on mitigations and detection techniques where applicable.  
-- If you find an issue in one of my projects or a disclosure-worthy vulnerability, reach out and I will coordinate responsibly.
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anmol%20Kool-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-kool)  
-[![Twitter](https://img.shields.io/badge/Twitter-@recklxzzzz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/recklxzzzz)  
-[Email](mailto:your-email@example.com)
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,25:ff0080,50:00ffff,75:ff0080,100:00ffff&height=110&section=footer&text=Stay%20Sharp.%20Stay%20Secure.&fontSize=20&fontColor=ffffff&animation=blinking&fontAlignY=75" alt="Footer Banner" />
-
-</div>
+https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,25:ff0080,50:00ffff,75:ff0080,100:00ffff&height=150&section=footer&text=🔐%20Secure.%20Private.%20Relentless.%20&fontSize=28&fontColor=ffffff&animation=blinking&fontAlignY=75
