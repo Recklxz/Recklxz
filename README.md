@@ -47,7 +47,7 @@ NEURAL_LINK=ACTIVE
 💡 Currently working on: AI-based Intrusion Detection System, Honeypots, and Pentesting tools
 
 ═══════════════════════════════════════════════════════════════════════════════
-⚡ NEURAL INTERFACE SYNCHRONIZED ⚡ ACCESSING DIGITAL UNDERGROUND ⚡
+                         ACCESSING SERVERS
 ═══════════════════════════════════════════════════════════════════════════════
   
 Loading digital warfare toolkit...
@@ -71,21 +71,21 @@ LEVEL: AES-256
 
 ![Operation Visual](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-|   🔥  OPERATION PHOENIX   💻 Honeypot Logging & Monitoring System 💻  
+|   💻 Honeypot Logging & Monitoring System 💻  
 └──╼ $ cat mission_brief.txt  
 THREAT LEVEL: ████████████ HIGH  
 ENCRYPTION: AES-256  
 STATUS: DEPLOYED  
 → A secure and scalable honeypot using Cowrie, deployed with Docker, integrated with the ELK stack for real-time log visualization, and optional Telegram/Email alerts for suspicious activities.
 
-|  ⚡  OPERATION NEON   💻 picologger 💻  
+|   💻 picologger 💻  
 └──╼ $ cat mission_brief.txt  
 THREAT LEVEL: ████████████ CRITICAL  
 ENCRYPTION: AES-256  
 STATUS: ACTIVE  
 → A Raspberry Pi Pico converted into a Rubber Ducky-style USB HID device using Ducky Script to simulate keystrokes and demonstrate physical-layer attack vectors.
 
-|  🌐  OPERATION MATRIX   💻 Real-time Intrusion Detection System 💻  
+|  💻 Real-time Intrusion Detection System 💻  
 └──╼ $ cat mission_brief.txt  
 THREAT LEVEL: ████████████ MAXIMUM  
 ENCRYPTION: NEURAL_LINK  
@@ -110,7 +110,7 @@ Choose your preferred communication protocol:
 
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                 │
-│  ⚡ "Security begins with understanding the attacker.                           │
+│    "Security begins with understanding the attacker.                           │
 │     I build defenses by thinking like one."                                    │
 │                                                                                 │
 │  💾 System Administrator: Anmol Kool                                             │
