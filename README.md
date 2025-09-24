@@ -96,3 +96,4 @@ All interactions respect privacy and technical integrity.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,25:ff0080,50:00ffff,75:ff0080,100:00ffff&height=150&section=footer&text=Stay%20Sharp.%20Stay%20Secure.&fontSize=28&fontColor=ffffff&animation=blinking&fontAlignY=75" width="100%" alt="Footer banner with motto" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Terminal animation" />
+![Snake animation](https://github.com/Recklxz/Recklxz/blob/output/github-snake.svg)
